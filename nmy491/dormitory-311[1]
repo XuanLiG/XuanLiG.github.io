@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>311</title>
+<style type="text/css">
+body {
+	background-image: url("images/背景.png");
+	font-size: 48px;
+}
+#text1 {
+	position: absolute;
+	width: 191px;
+	left: 10px;
+	top: 171px;
+}
+#text2 {
+	position: absolute;
+	left: 76px;
+	top: 501px;
+	width: 154px;
+	background-color: hsla(0,0%,100%,0.31);
+}
+#text3 {
+	background-color: hsla(0,0%,100%,0.28);
+	position: absolute;
+	left: 346px;
+	top: 501px;
+	width: 158px;
+}
+#text4 {
+	background-color: hsla(0,0%,97%,0.34);
+	position: absolute;
+	left: 666px;
+	top: 503px;
+	width: 158px;
+}
+#text5 {
+	background-color: hsla(0,0%,97%,0.34);
+	position: absolute;
+	left: 966px;
+	top: 503px;
+	width: 158px;
+}
+</style>
+</head>
+
+<body>
+<div id="text1"><strong style="font-size: 48px">311宿舍</strong></div>
+<a href="http://wang_rich.gitee.io/class-homepage"><img src="images/下载.jpg" width="99" height="90" alt=""></a>
+<div id="text2"><a href="https://xuanlig.github.io/"><strong><span style="">倪明宇</span></strong></a></div>
+<div id="text3"><strong><a href="http://kiritoking.gitee.io/nice-ma-fei/">朱展辉</a></strong></div>
+<div id="text4"><strong><a href="https://yan-haoming.gitee.io/hanniba">程晓宇</a></strong></div>
+<div id="text5"><strong><a href="http://guyueyueyuebird.gitee.io/zyb">张宇博</a></strong></div>
+</body>
+</html>
+
